@@ -1,0 +1,16 @@
+#main-nav-bar{
+    background-color: #2980b9 !important;
+    z-index: 9999;
+}
+
+#side-bar-toggle-button
+{
+    color: #ecf0f1;
+}
+
+.navbar-brand{
+    font-size: 34px;
+    margin-top: -5px;
+    margin-bottom: 3px;
+    padding-left: 30px;    
+}
